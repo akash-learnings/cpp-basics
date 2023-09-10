@@ -1,0 +1,15 @@
+# Ignore compiled binaries and executables
+*.exe
+*.out
+*.so
+*.dll
+
+# Ignore object files
+*.o
+
+# Ignore build directories
+/build/
+/bin/
+
+# Except files with .cpp extension
+!*.cpp
